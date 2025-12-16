@@ -1,6 +1,6 @@
 # "BMI Calculation App By Java Swing"
 
-This is a basic implementation of a bmi calculator app with the help of java swing. Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m^2, resulting from mass in kilograms (kg) and height in meters (m). Check out [BMI Wikipedia page]([https://en.wikipedia.org/wiki/Body_mass_index]) for more info. 
+This is a basic implementation of a bmi calculator app with the help of java swing. Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m^2, resulting from mass in kilograms (kg) and height in meters (m). Check out [BMI Wikipedia page](https://en.wikipedia.org/wiki/Body_mass_index) for more info. 
 
 This simple app with its user friendly UI allows you to calculate your BMI by simply entering your height and weight in the boxes. The app contains 3 main panels:
 ## 1.  Welcome Panel
