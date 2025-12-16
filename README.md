@@ -17,9 +17,11 @@ This panel holds the real purpose of the app, which is calculating the BMI. Ther
 
 <img width="477" height="545" alt="Screenshot 2025-12-16 233604" src="https://github.com/user-attachments/assets/54dfe16c-8d08-4d17-9c0d-8594b39e7970" />
 
-After you've entered your height and weight, you can click on the "calculate bmi" button and the app generates the calculated bmi number and displays it:
+
+After you've entered your height and weight, you can click on the "calculate your bmi" button and the app generates the calculated bmi number and displays it:
 
 <img width="478" height="546" alt="Screenshot 2025-12-16 233639" src="https://github.com/user-attachments/assets/84e23c46-87b9-4c07-abd4-aa8c42df3dad" />
+
 
 Keep in mind that the app is designed to be simple and functional. It might look "basic" or "ugly" you might say, but it does the job perfectly. Just enter your weight and height, and get your bmi right away! :D 
  
